@@ -4,5 +4,5 @@ Usage:
 Trigger the `sendToClipBoard` event (client) and you are done <br>
 Example:
 ```lua
-TriggerEvent('sendToClipBoard', 'this will get copied on the cliboard')
+TriggerEvent('sendToClipBoard', 'this will get copied to the cliboard')
 ```
