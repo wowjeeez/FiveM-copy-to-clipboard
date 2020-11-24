@@ -6,3 +6,4 @@ Example:
 ```lua
 TriggerEvent('sendToClipBoard', 'this will get copied to the cliboard')
 ```
+There is a test command called `copycoords`, it copies you x,y,z and heading to the clipboard in the form of a `vector4()`
